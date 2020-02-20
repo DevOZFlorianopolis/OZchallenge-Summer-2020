@@ -44,11 +44,11 @@ Deve armazenar e exibir informações que permitam acesso a máquina dos cliente
 * <strong>Informações de clientes</strong>  
 Deve armazenar, exibir e exportar informações básicas dos clients, que são enviados a cada pedido de autenticação, incluindo número de caixas, clientes e a versão atual sendo executada.
 
+* <strong>Reinicialização de serviços</strong>  
+Desenvolver uma interface fácil e intuitiva, possibilitando a reinicialização (fazendo uso de um endpoint externo, que irá responder com um OK ou ERRO) de um serviço que é executado em um cliente.
+
 * <strong>Manter dados históricos</strong>  
 Armazenar informações históricas (enviadas a cada autenticação) e que permitam monitorar o uso / engajamento do OZmap (definir estratégia de forma que considere o uso do cliente, sem considerar as ações feitas por integrações e softwares de monitoramento).
-
-* <strong>Reinicialização de serviços</strong>  
-De forma fácil e intuitiva, permitir que um serviço sendo executado na máquina de um cliente seja reiniciado.
 
 * <strong>Envio de notificações</strong>  
 Deve ser possível enviar uma mensagem a um ou mais OZmaps.

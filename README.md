@@ -3,7 +3,7 @@
 ## Contextualização
 
 A DevOZ possui hoje um sistema para controle de permissão de execução de seu sistema principal, o OZmap, chamado ISIS Manager.  
-O ISIS Manager, como o nome já diz, é uma implementação antiga, tendo como principal funcionalidade armazenras dados enviados pelos OZmaps e realizar autenticação de clientes registrados.  
+O ISIS Manager, como o nome já diz, é uma implementação antiga, tendo como principal funcionalidade armazenando dados enviados pelos OZmaps e realizar autenticação de clientes registrados.  
 O objetivo do desafio é uma implementação moderna de um software para agir como OZmap Manager, incluindo as funcionalidades atuais e alguns adendos que servirão para melhorar o fluxo de venda / suporte da empresa.
 
 ## Entrega
